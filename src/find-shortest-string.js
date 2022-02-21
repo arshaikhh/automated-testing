@@ -16,5 +16,3 @@ function findShortestString(stringArr) {
   }
   return shortestString.length;
 }
-
-
